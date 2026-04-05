@@ -592,7 +592,7 @@ export default function App() {
 
       {/* Floating WhatsApp */}
       <a
-        href="https://wa.me/212784184509?text=Hello%20Mohammed%2C%20I%20would%20like%20to%20discuss%20my%20project."
+        href="https://wa.me/212678368386?text=Hello%20Mohammed%2C%20I%20would%20like%20to%20discuss%20my%20project."
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 right-5 z-50"
@@ -958,7 +958,7 @@ function ProjectModal({
             </a>
 
             <a
-              href="https://wa.me/212784184509?text=Hello%20Mohammed%2C%20I%20saw%20one%20of%20your%20projects%20and%20I%20want%20something%20similar."
+              href="https://wa.me/212678368386?text=Hello%20Mohammed%2C%20I%20saw%20one%20of%20your%20projects%20and%20I%20want%20something%20similar."
               target="_blank"
               rel="noopener noreferrer"
               className={`inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 text-sm font-semibold transition hover:scale-[1.02] ${
