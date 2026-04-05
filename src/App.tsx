@@ -380,7 +380,7 @@ export default function App() {
             </p>
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-              <PrimaryButton href="https://wa.me/212784184509?text=Hello%20Mohammed%2C%20I%20want%20a%20free%20quote.">
+              <PrimaryButton href="https://wa.me/212678368386?text=Hello%20Mohammed%2C%20I%20want%20a%20free%20quote.">
                 <Rocket className="h-5 w-5" />
                 {t.heroBtn1}
               </PrimaryButton>
