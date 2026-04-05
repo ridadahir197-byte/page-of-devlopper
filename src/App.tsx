@@ -581,7 +581,7 @@ export default function App() {
                 <p className="mt-2 max-w-xl text-sm leading-7 text-white/85">{t.ctaDesc}</p>
               </div>
 
-              <PrimaryButton href="https://wa.me/212784184509?text=Hello%20Mohammed%2C%20I%20want%20to%20start%20a%20project.">
+              <PrimaryButton href="https://wa.me/212678368386?text=Hello%20Mohammed%2C%20I%20want%20to%20start%20a%20project.">
                 <PhoneCall className="h-5 w-5" />
                 {t.ctaBtn}
               </PrimaryButton>
