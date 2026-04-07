@@ -74,8 +74,8 @@ export default function App() {
       {
         title: "Luxury Restaurant Website",
         category: "Website",
-        image: "https://images.pexels.com/photos/36934455/pexels-photo-36934455.jpeg",
-        link: "https://example.com",
+        image: "https://images.pexels.com/photos/36973124/pexels-photo-36973124.jpeg",
+        link: "https://chezabdofood.netlify.app/",
         tech: ["React", "Tailwind", "Responsive"],
         description: "A premium restaurant website with elegant sections and a modern menu showcase.",
       },
