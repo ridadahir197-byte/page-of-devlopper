@@ -90,8 +90,8 @@ export default function App() {
       {
         title: "Excel Productivity Dashboard",
         category: "Excel",
-        image: "/projects/project3.jpg",
-        link: "https://example.com",
+        image: "https://images.pexels.com/photos/36965792/pexels-photo-36965792.jpeg",
+        link: "https://todolist-mrd.netlify.app/",
         tech: ["Excel", "Dashboard", "Tracking"],
         description: "A practical and modern Excel dashboard for productivity and business use.",
       },
