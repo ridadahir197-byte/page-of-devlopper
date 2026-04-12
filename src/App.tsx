@@ -80,12 +80,12 @@ export default function App() {
         description: "A premium restaurant website with elegant sections and a modern menu showcase.",
       },
       {
-        title: "Creative Personal Portfolio",
-        category: "Portfolio",
-        image: "/projects/project2.jpg",
-        link: "https://example.com",
-        tech: ["Portfolio", "Branding", "Animation"],
-        description: "A stylish personal portfolio designed to impress and build trust.",
+        title: "Client & Order Management System",
+        category: "Website",
+        image: "https://images.pexels.com/photos/37051454/pexels-photo-37051454.jpeg",
+        link: "https://venom-os.netlify.app/",
+        tech: ["WebApp", "Branding", "Animation"],
+        description: "A web-based SaaS application for managing clients and tracking orders with a clean interface and scalable architecture.",
       },
       {
         title: "Excel Productivity Dashboard",
@@ -114,7 +114,7 @@ export default function App() {
       {
         title: "Premium Bio Link Profile",
         category: "Portfolio",
-        image: "/projects/project6.jpg",
+        image: "https://images.pexels.com/photos/37051578/pexels-photo-37051578.jpeg",
         link: "https://example.com",
         tech: ["Bio Link", "Modern", "Branding"],
         description: "A stylish mobile-first bio link profile for freelancers and creators.",
