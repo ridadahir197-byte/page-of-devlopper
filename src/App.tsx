@@ -115,7 +115,7 @@ export default function App() {
         title: "Premium Bio Link Profile",
         category: "Portfolio",
         image: "https://images.pexels.com/photos/37051578/pexels-photo-37051578.jpeg",
-        link: "https://example.com",
+        link: "https://my-portfolio-mrd.netlify.app/",
         tech: ["Bio Link", "Modern", "Branding"],
         description: "A stylish mobile-first bio link profile for freelancers and creators.",
       },
